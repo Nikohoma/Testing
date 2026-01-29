@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MsTests/MsTests.csproj" Id="3b9439f4-c05d-492f-991d-367e49757727" />
+  <Project Path="TestProject1/NUnitTests.csproj" />
+  <Project Path="UnitTestFrameworkExamples/UnitTestFrameworkExamples.csproj" />
+</Solution>
